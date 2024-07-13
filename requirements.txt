@@ -6,6 +6,8 @@ mysql.connector
 urllib3
 fake_email
 rich
+pyfiglet
+user-agents
 telebot
 pillow
 pyTelegramBotAPI==4.11.0
