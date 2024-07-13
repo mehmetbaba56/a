@@ -7,7 +7,7 @@ urllib3
 fake_email
 rich
 pyfiglet
-user-agents
+user-agent
 telebot
 pillow
 pyTelegramBotAPI==4.11.0
