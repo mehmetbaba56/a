@@ -48,5 +48,5 @@ def proxy_attack():
         print(f'{S}DOWN: {url} | {proxy}')
         pass
 
-url = 'https://robust-bey.com.tr'
+url = 'https://robust-bey.com.tr/'
 ProxyAttack()
